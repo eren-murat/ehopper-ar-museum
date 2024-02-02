@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="room-in-new-york" size="1.000000 0.797000" />
+    <ImageTarget name="automat" size="1.000000 0.793750" />
+    <ImageTarget name="office-in-a-small-city" size="1.000000 0.774972" />
+    <ImageTarget name="nighthawks" size="1.000000 0.544545" />
+  </Tracking>
+</QCARConfig>
