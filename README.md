@@ -1,2 +1,2 @@
 # ehopper-ar-museum
- Present paitings by Edward Hopper using augmented reality.
+ Present paintings by Edward Hopper using augmented reality.
